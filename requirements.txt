@@ -8,3 +8,4 @@ requests==2.26.0
 selenium==3.141.0
 urllib3==1.26.6
 webdriver-manager==3.4.2
+pytest~=5.4.3
